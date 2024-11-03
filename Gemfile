@@ -24,6 +24,8 @@ group :jekyll_plugins do
     gem 'observer'
     gem 'fiddle'
     gem 'ostruct'
+    gem 'jekyll-jupyter-notebook'
+
 
 end
 group :other_plugins do
