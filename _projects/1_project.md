@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python
-description: with background image
+description: aprendiendo un nuevo lenguaje.
 img: assets/img/12.jpg
 importance: 1
 category: work
